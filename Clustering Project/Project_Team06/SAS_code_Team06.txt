@@ -1,0 +1,36 @@
+# Amit Verma
+# Sparsh Sharma
+# Simardeep Kaur
+# Charanjit Singh
+
+
+#SAS Analysis Hierarchical
+#Data Preparation
+proc import datafile= "/folders/myfolders/Wholesale.csv"
+OUT=WORK.wholesale 
+DBMS=CSV 
+REPLACE; 
+RUN;
+
+#Ward Pseudo Method in SAS
+proc cluster data=WORK.wholesale method=ward pseudo;
+  id Type;
+run;
+
+#Proc Tree Method in SAS
+proc tree horizontal;
+id Type;
+run;
+
+#SAS Analysis Partitional
+#Data Preparation
+proc import datafile= "/folders/myfolders/seeds.txt"
+OUT=WORK.wheat 
+DBMS=TAB 
+REPLACE; 
+RUN;
+
+#K-Means Clustering in SAS
+proc fastclus data=WORK.wheat maxc=3; 
+   var Area Perimeter Compactness Length_Of_Kernel Width_Of_Kernel Asym_Coeff Length_Kernel_Groove; 
+run;
