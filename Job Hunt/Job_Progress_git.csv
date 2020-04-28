@@ -1,0 +1,93 @@
+Longitude,Latitude,Position,Password Required,Cover Letter,Job Type,Skills
+-123.00691,49.19704,Data Analyst,Yes,No,Full Time,"Bachelor’s Degree or equivalent professional experience.
+Outstanding technical communication skills.
+10+ years of software development using object-oriented design and Service-Oriented Architecture.
+Technical expertise in Java (J2EE, Spring Boot, Servlets/JSP, Hibernate) and JavaScript (HTML, CSS, AJAX, React/Redux).
+Expertise in microservices architecture, clustered and distributed applications, MsSQL, Oracle database 10g/11g.
+Knowledge of Test & Build frameworks (xUnit, Ant/Maven/npm, etc.), SCM, CI/CD practices.
+Full stack development expertise from front-end to back-end services.
+Experience with data structures, algorithms.
+Bonus points if you're familiar with Agile/Scrum methodologies."
+-123.11708,49.28662,Data Analyst,Yes,No,Full Time,"SQL, Communication, Project Methodology"
+-123.118179,49.287731,SQL Data Analyst,Yes,No,Full Time,"python, R"
+-123.00993,49.24787,Data Software Engineer - FIFA,Yes,Yes,Full Time,"python, SQL"
+-123.00993,49.24787,Associate Data Analyst,Yes,Yes,Full Time,"python, methodology"
+-123.10163,49.27289,Data Analyst,Yes,Yes,Full Time,"python, Communication"
+-122.97258,49.24422,Data Analyst,No,Yes,Full Time,"python,Flowcharts"
+-123.11783,49.2884,Data Analyst,Yes,No,Full Time,"python,statistics"
+-88.06732,41.79663,Junior Business Analyst,No,No,Full Time,"python,Tableau"
+-123.122,49.27501,Entry Level Data Analyst,No,No,Full Time,"python, ?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs."
+-123.15538,49.26821,Math Teacher,No,Yes,Part Time,python
+-123.11993,49.28512,Business Analyst,No,No,Full Time,"?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs.
+"
+-123.116943,49.281261,Data Analyst I,Yes,Yes,Full Time,"Structured Query Language (SQL)/Transact SQL
+Data transformation scripting & mapping: eXtensible Markup Language (XML), eXtensible Stylesheet Language (XSL)/XPath
+Familiarity with databases such as Microsoft (MS) SQL, Oracle, MySQL, etc
+Scripting: Python/Groovy or development: Java/C#
+Linux/Unix & Groovy is an asset
+MapForce is an asset"
+-123.11694,49.28126,Support Engineer,Yes,No,Full Time,"· 3+ years’ experience in System or Support Engineering
+· 3+ years of System Engineering/Administration experience in distributed environment focusing on automation
+· 3+ years of experience with the Linux operating system or AWS and its operation in production environment
+· 3+ years of experience working in a DevOps environment
+· Experience with system and application monitoring, software distribution, patching and maintenance"
+-123.1231,49.28577,Data Analyst,Yes,No,Full Time,"communication, analytical skills, pera, Maestro, Google Adwords, Automated Revenue Management Systems and Synxis, transform, statistical techniques "
+-123.13031,49.29032,Game Analyst,No,Optional,Full Time,"Tableau, Qlik, Looker, statistics and/or econometric,SQL,analytical and quantitative,communicate "
+-123.114101,49.273535,Data Analyst,No,Optional,Full Time,"dvanced SQL and advanced excel 
+Data Wrangling and reporting. 
+Strong DB2 or any relational database knowledge. 
+IBM Datastage tool is preferred or any other ETL should be ok. 
+Any reporting tool is ok – Tableau, Qlikview, Business Objects at intermediate level. 
+Scala and Python programming languages. 
+Spark Sql, Hive2 and Data Caching 
+Strong experience in distributed Java/J2EE/Oracle/WebSphere based development environment.  
+ Experience in web technologies like Servlets, JSP, JDBC, WebServices, HTML, CSS, JavaScript. 
+ Experience in data modeling and RDBMS. 
+ Experience with SQL / PL-SQL and usage of SQL Developer or similar tools. 
+ Ability to communicate design ideas effectively using UML. 
+ Experience implementing at least one project in Guidewire Policy Center from concept to release as Configuration and Integration Developer is preferred. 
+ Experience with Agile development methodologies. 
+ Experience using SoapUI for service testing. 
+ Knowledge of distributed platforms and Unix shell scripting 
+ Strong experience in Guidewire PolicyCenter applications. Additionally, preference would be given to following skills 
+ Working experience with MapR converged platform and development using apache spark & Scala programming language  
+ Experience with stream sets technology for data ingestion  
+ Experience with metadata management and testing automation for applications on big data platforms.  
+ Data migration experience from traditional/relational data management stores to open source hadoop based platform distributions."
+-123.114746,49.276728,Data Analyst,No,Optional,Full Time,https://www.visier.com/careers/data-analyst/?lever-source=Indeed
+-123.1245,49.28574,Kssociate Data Analyst,No,Yes,Contract,"statistical,Expert SQL skills,project management methodologies,Tableau,JIRA ,dashboards"
+-123.08178,49.31201,Technical Support Specialist,Yes,Yes,Contract,"Support, Splunk, Outages"
+-123.12092,49.28655,Data Analyst,No,No,Full Time,"[-] You have two or more years of hands-on data analysis experience in a company environment
+[-] You are comfortable doing both quantitative and qualitative analysis and talking to a wide variety of different stakeholder groups
+[-] You have a keen interest in researching new data analysis tools, technologies and methodologies"
+-123.11829,49.28572,Data Developer,Yes,Yes,Full Time,"Computer Science degree or equivalent education and experience
+Minimum three years of experience with data analysis and preparation, including considerable experience with very large data sets of unstructured data related to Business Intelligence
+Strong understanding of Agile methodologies
+Experience as a data engineer on an agile team preferred
+Mastery of SQL scripting
+Basic understanding of R, Python, and Java
+Strong experience in database development and data modeling
+Solid business and collaboration skills, and responsive to service needs and operational demands
+Passionate about technology and excited about the impact of emerging and disruptive technologies
+Self-starter and would thrive in an environment that fosters entrepreneurial minds
+Believes in culture of transparency and trust
+Open to learning new ideas outside scope or knowledge skillset
+Ability to travel to our sites in British Columbia 5% of the time"
+0,0,SW Applications Developer 2,No,No,Full Time,"2+ years of .Net web applications programming experience
+2+ years SQL Server/T-SQL programming experience
+Understand web technologies like HTML5, CSS3, XML, JavaScript, AJAX, JSON, Web Service etc
+Understand OO design and common used web application programming patterns like MVC etc
+Understand application development methodologies and lifecycle management"
+-123.54679,49.40617,FT Data Analyst II - Administration,No,Yes,Full Time,"In addition to formal post-secondary education and strong data knowledge and
+experience, we are looking for an individual who is incredibly organized, with an ability to
+prioritize workflow and anticipate needs, with the ability to communicate results to
+various audiences; experience with Salesforce or other CRM systems would be considered
+an asset. The successful incumbent will be adept at problem solving, decision making,
+establishing strong working relationships, and working collaboratively. "
+-123.11572,49.28556,Data Analyst,Yes,Optional,Full Time,
+-123.1245,49.28574,Senior Data Analyst,No,Optional,Full Time,"Providing support to cross-functional teams across the organization to understand overall business goals, improve reporting, and assist with larger scale projects as needed
+Finding answers to business questions via hands-on exploration of data sets using SQL, dashboards, statistical analysis, and data visualizations
+Generating and maintaining a suite of dashboards and reports for teams throughout the organization
+Creating and managing multiple A/B tests to gain valuable insights on KPIs including retention, acquisition, and monetization
+Measuring the success of product features after release and optimize their performance through rapid, data-driven iteration
+Aiding in task prioritization and general project management within the data team"
