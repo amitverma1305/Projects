@@ -1,5 +1,5 @@
-Longitude,Latitude,Position,Password Required,Cover Letter,Job Type,Skills
--123.00691,49.19704,Data Analyst,Yes,No,Full Time,"Bachelor’s Degree or equivalent professional experience.
+ID,Longitude,Latitude,Portal,Password Required,Cover Letter,Job Type,Area,Province,Country,Skills,Responsibilities,Pay
+1,-123.00691,49.19704,website,Yes,No,Full Time,Vancouver,BC,Canada,"Bachelor’s Degree or equivalent professional experience.
 Outstanding technical communication skills.
 10+ years of software development using object-oriented design and Service-Oriented Architecture.
 Technical expertise in Java (J2EE, Spring Boot, Servlets/JSP, Hibernate) and JavaScript (HTML, CSS, AJAX, React/Redux).
@@ -7,33 +7,33 @@ Expertise in microservices architecture, clustered and distributed applications,
 Knowledge of Test & Build frameworks (xUnit, Ant/Maven/npm, etc.), SCM, CI/CD practices.
 Full stack development expertise from front-end to back-end services.
 Experience with data structures, algorithms.
-Bonus points if you're familiar with Agile/Scrum methodologies."
--123.11708,49.28662,Data Analyst,Yes,No,Full Time,"SQL, Communication, Project Methodology"
--123.118179,49.287731,SQL Data Analyst,Yes,No,Full Time,"python, R"
--123.00993,49.24787,Data Software Engineer - FIFA,Yes,Yes,Full Time,"python, SQL"
--123.00993,49.24787,Associate Data Analyst,Yes,Yes,Full Time,"python, methodology"
--123.10163,49.27289,Data Analyst,Yes,Yes,Full Time,"python, Communication"
--122.97258,49.24422,Data Analyst,No,Yes,Full Time,"python,Flowcharts"
--123.11783,49.2884,Data Analyst,Yes,No,Full Time,"python,statistics"
--88.06732,41.79663,Junior Business Analyst,No,No,Full Time,"python,Tableau"
--123.122,49.27501,Entry Level Data Analyst,No,No,Full Time,"python, ?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs."
--123.15538,49.26821,Math Teacher,No,Yes,Part Time,python
--123.11993,49.28512,Business Analyst,No,No,Full Time,"?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs.
-"
--123.116943,49.281261,Data Analyst I,Yes,Yes,Full Time,"Structured Query Language (SQL)/Transact SQL
+Bonus points if you're familiar with Agile/Scrum methodologies.",,
+2,-123.11708,49.28662,website,Yes,No,Full Time,Vancouver,BC,Canada,"SQL, Communication, Project Methodology",,
+3,-123.118179,49.287731,website,Yes,No,Full Time,Vancouver,BC,Canada,"python, R",,
+4,-123.00993,49.24787,Indeed,Yes,Yes,Full Time,Vancouver,BC,Canada,"python, SQL",,
+5,-123.00993,49.24787,Indeed,Yes,Yes,Full Time,Vancouver,BC,Canada,"python, methodology",,
+6,-123.10163,49.27289,Indeed,Yes,Yes,Full Time,Vancouver,BC,Canada,"python, Communication",,
+7,-122.97258,49.24422,Indeed,No,Yes,Full Time,Burnaby,BC,Canada,"python,Flowcharts",,
+8,-123.11783,49.2884,Indeed,Yes,No,Full Time,Vancouver,BC,Canada,"python,statistics",,
+9,-88.06732,41.79663,Linkedin,No,No,Full Time,Wodridge,IL,US,"python,Tableau",,
+10,-123.122,49.27501,Linkedin,No,No,Full Time,Toronto,ON,Canada,"python, ?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs.",,
+11,-123.15538,49.26821,Linkedin,No,Yes,Part Time,Vancouver,BC,Canada,python,,
+12,-123.11993,49.28512,Linkedin,No,No,Full Time,Vancouver,BC,Canada,"?Knowledge of coding fundamentals, Trello, JavaScript, CSS, HTML, SQL and cloud server architecture are assets. Attention to detail, communications, especially clear and precise technical writing, and visual display of complex information (tables, flowcharts, etc); fast learning, especially the ability to discern users’ needs.
+",,
+13,-123.116943,49.281261,Indeed,Yes,Yes,Full Time,Vancouver,BC,Canada,"Structured Query Language (SQL)/Transact SQL
 Data transformation scripting & mapping: eXtensible Markup Language (XML), eXtensible Stylesheet Language (XSL)/XPath
 Familiarity with databases such as Microsoft (MS) SQL, Oracle, MySQL, etc
 Scripting: Python/Groovy or development: Java/C#
 Linux/Unix & Groovy is an asset
-MapForce is an asset"
--123.11694,49.28126,Support Engineer,Yes,No,Full Time,"· 3+ years’ experience in System or Support Engineering
+MapForce is an asset",,
+14,-123.11694,49.28126,Indeed,Yes,No,Full Time,Vancouver,BC,Canada,"· 3+ years’ experience in System or Support Engineering
 · 3+ years of System Engineering/Administration experience in distributed environment focusing on automation
 · 3+ years of experience with the Linux operating system or AWS and its operation in production environment
 · 3+ years of experience working in a DevOps environment
-· Experience with system and application monitoring, software distribution, patching and maintenance"
--123.1231,49.28577,Data Analyst,Yes,No,Full Time,"communication, analytical skills, pera, Maestro, Google Adwords, Automated Revenue Management Systems and Synxis, transform, statistical techniques "
--123.13031,49.29032,Game Analyst,No,Optional,Full Time,"Tableau, Qlik, Looker, statistics and/or econometric,SQL,analytical and quantitative,communicate "
--123.114101,49.273535,Data Analyst,No,Optional,Full Time,"dvanced SQL and advanced excel 
+· Experience with system and application monitoring, software distribution, patching and maintenance",,
+15,-123.1231,49.28577,Indeed,Yes,No,Full Time,Vancouver,BC,Canada,"communication, analytical skills, pera, Maestro, Google Adwords, Automated Revenue Management Systems and Synxis, transform, statistical techniques ",,
+16,-123.13031,49.29032,Indeed,No,Optional,Full Time,Vancouver,BC,Canada,"Tableau, Qlik, Looker, statistics and/or econometric,SQL,analytical and quantitative,communicate ",,
+17,-123.114101,49.273535,Indeed,No,Optional,Full Time,Vancouver,BC,Canada,"dvanced SQL and advanced excel 
 Data Wrangling and reporting. 
 Strong DB2 or any relational database knowledge. 
 IBM Datastage tool is preferred or any other ETL should be ok. 
@@ -53,14 +53,14 @@ Strong experience in distributed Java/J2EE/Oracle/WebSphere based development en
  Working experience with MapR converged platform and development using apache spark & Scala programming language  
  Experience with stream sets technology for data ingestion  
  Experience with metadata management and testing automation for applications on big data platforms.  
- Data migration experience from traditional/relational data management stores to open source hadoop based platform distributions."
--123.114746,49.276728,Data Analyst,No,Optional,Full Time,https://www.visier.com/careers/data-analyst/?lever-source=Indeed
--123.1245,49.28574,Kssociate Data Analyst,No,Yes,Contract,"statistical,Expert SQL skills,project management methodologies,Tableau,JIRA ,dashboards"
--123.08178,49.31201,Technical Support Specialist,Yes,Yes,Contract,"Support, Splunk, Outages"
--123.12092,49.28655,Data Analyst,No,No,Full Time,"[-] You have two or more years of hands-on data analysis experience in a company environment
+ Data migration experience from traditional/relational data management stores to open source hadoop based platform distributions.",,
+18,-123.114746,49.276728,Indeed,No,Optional,Full Time,Vancouver,BC,Canada,https://www.visier.com/careers/data-analyst/?lever-source=Indeed,,
+19,-123.1245,49.28574,Indeed,No,Yes,Contract,Vancouver,BC,Canada,"statistical,Expert SQL skills,project management methodologies,Tableau,JIRA ,dashboards",,
+20,-123.08178,49.31201,Indeed,Yes,Yes,Contract,Vancouver,BC,Canada,"Support, Splunk, Outages",,
+21,-123.12092,49.28655,Indeed,No,No,Full Time,Vancouver,BC,Canada,"[-] You have two or more years of hands-on data analysis experience in a company environment
 [-] You are comfortable doing both quantitative and qualitative analysis and talking to a wide variety of different stakeholder groups
-[-] You have a keen interest in researching new data analysis tools, technologies and methodologies"
--123.11829,49.28572,Data Developer,Yes,Yes,Full Time,"Computer Science degree or equivalent education and experience
+[-] You have a keen interest in researching new data analysis tools, technologies and methodologies",,70000
+22,-123.11829,49.28572,Linkedin,Yes,Yes,Full Time,Vancouver,BC,Canada,"Computer Science degree or equivalent education and experience
 Minimum three years of experience with data analysis and preparation, including considerable experience with very large data sets of unstructured data related to Business Intelligence
 Strong understanding of Agile methodologies
 Experience as a data engineer on an agile team preferred
@@ -72,22 +72,196 @@ Passionate about technology and excited about the impact of emerging and disrupt
 Self-starter and would thrive in an environment that fosters entrepreneurial minds
 Believes in culture of transparency and trust
 Open to learning new ideas outside scope or knowledge skillset
-Ability to travel to our sites in British Columbia 5% of the time"
-0,0,SW Applications Developer 2,No,No,Full Time,"2+ years of .Net web applications programming experience
+Ability to travel to our sites in British Columbia 5% of the time",,
+23,,,Linkedin,No,No,Full Time,,,US,"2+ years of .Net web applications programming experience
 2+ years SQL Server/T-SQL programming experience
 Understand web technologies like HTML5, CSS3, XML, JavaScript, AJAX, JSON, Web Service etc
 Understand OO design and common used web application programming patterns like MVC etc
-Understand application development methodologies and lifecycle management"
--123.54679,49.40617,FT Data Analyst II - Administration,No,Yes,Full Time,"In addition to formal post-secondary education and strong data knowledge and
+Understand application development methodologies and lifecycle management",,
+24,-123.54679,49.40617,Indeed,No,Yes,Full Time,Gibson,BC,Canada,"In addition to formal post-secondary education and strong data knowledge and
 experience, we are looking for an individual who is incredibly organized, with an ability to
 prioritize workflow and anticipate needs, with the ability to communicate results to
 various audiences; experience with Salesforce or other CRM systems would be considered
 an asset. The successful incumbent will be adept at problem solving, decision making,
-establishing strong working relationships, and working collaboratively. "
--123.11572,49.28556,Data Analyst,Yes,Optional,Full Time,
--123.1245,49.28574,Senior Data Analyst,No,Optional,Full Time,"Providing support to cross-functional teams across the organization to understand overall business goals, improve reporting, and assist with larger scale projects as needed
+establishing strong working relationships, and working collaboratively. ",,
+25,-123.11572,49.28556,Linkedin,Yes,Optional,Full Time,Vancouver,BC,Canada,,,
+26,-123.1245,49.28574,Linkedin,No,Optional,Full Time,Vancouver,BC,Canada,"Providing support to cross-functional teams across the organization to understand overall business goals, improve reporting, and assist with larger scale projects as needed
 Finding answers to business questions via hands-on exploration of data sets using SQL, dashboards, statistical analysis, and data visualizations
 Generating and maintaining a suite of dashboards and reports for teams throughout the organization
 Creating and managing multiple A/B tests to gain valuable insights on KPIs including retention, acquisition, and monetization
 Measuring the success of product features after release and optimize their performance through rapid, data-driven iteration
-Aiding in task prioritization and general project management within the data team"
+Aiding in task prioritization and general project management within the data team",,
+27,-123.11683,49.28594,Indeed,No,Optional,Full Time,Vancouver,BC,Canada,"3+ years experience in data analysis in B2B companies specifically in Saas
+BA or BS required
+Experience using SQL, Python and R. Candidates should be equally strong exploring data through both SQL and BI tools.
+Strong understanding of different database environments (Mongo, MySQL) including cloud-based ones (AWS)
+Familiarity with data warehouse concepts and data models
+Experience with modern visualization tools (Looker, Tableau) and/or other data analysis tools
+Strong communication skills (both oral and written); Must be able to present results to senior leadership, internal and external stakeholders with the ability to translate between technical metrics and business KPIs.
+Excellent organizational, motivational and interpersonal skills, capable of interfacing well at multiple levels within a large organization.
+Outstanding analytic and modeling skills, proficient at conceptualizing, implementing, and evaluating highly accurate and scalable advanced analytics solutions to business problems.
+Knowledge of health-related analytics concepts such as risk stratification, episode groupers, and benchmarks.
+Professional and positive approach in building relationships and quickly gain credibility with senior executives.
+A result and success-oriented mentality, conveying a sense of urgency and driving issues to closure while adapting and adjusting to multiple demands, shifting priorities, ambiguity, and rapid change","Create factor analyses on customer lifecycle / funnel and conversion, with a focus on product analytics, ranging from onboarding journeys (path analysis) to activation / retention signals
+Partner with data engineering to define requirements for data pipelines and warehouse (Snowflake, Athena) data models
+Partnering with data science peers to identify gaps, improve quality, and share advanced modeling techniques and learnings.
+Work with Product Management, and DevOps as needed to provide SaaS customer adoption/usage insight to be shared with sales, and marketing organizations
+Perform extensive data validation/quality assurance analysis within large datasets
+Diagnose data-related bugs and ensure they are resolved in a timely manner
+Develop and maintain automated dashboards, metric reports and data visualizations (Looker, Mixpanel, Tableau) and train colleagues to use them
+Support the business with ad hoc reporting
+Develop a high level of expertise with Sauce Labs data by digging into the details, sources and history of the data",
+28,-123.12844,49.19404,Indeed,No,Optional,Full Time,Burnaby,BC,Canada,"database management systems; Operate database management systems to analyze data
+Management Systems (erp or db)
+SAP (FI/CO / HR / MM / OT SD); Oracle
+Work Setting
+Manufacture
+Programming Languages
+SQL
+Transportation/Travel Information
+Willing to travel
+Work Conditions and Physical Capabilities
+Fast-paced environment; Work under pressure; Repetitive tasks; Attention to detail; Tight deadlines
+Computer and Technology Knowledge
+MS Windows; Database software; Data analysis software; MS Office
+Personal Suitability
+Initiative; Accurate; Team player; Client focus; Organized","Collect and document user's requirements; Design and develop database; Design, construct, modify, implement and test data models and database management systems; Operate database management systems to analyze data",
+29,-123.12148,49.27898,Indeed,Yes,Yes,Full Time,Vancouver,BC,Canada,"Experience with SaaS and Software Integration is a must. 
+Exceptional written and verbal communication skills including excellent documentation skills
+Highly organized, independent and detail-oriented self-starter
+Experience writing user stories and use cases and following product releases through to completion 
+Comfortable dealing with and responding to ambiguous situations and being aware of when and how to pivot
+Strong analytical skills and experience eliciting and creating requirements documents
+Ability to communicate with people of various technical and business backgrounds, including the ability to explain difficult technical concepts in simple terms to business users
+A strong team player eager to collaborate, humbly accept feedback and objectively consider multiple perspectives while always empowering the customer’s voice
+Ability to be resourceful, creative and emotionally intelligent
+Passion for conducting research and extracting insights
+Working experience with wireframing and process flow diagrams","•	Lead the initial “discovery phase” with Enterprise-level stakeholders and other subject matter experts; preparation in the form of exhaustive research and efficient synthesis is key
+•	Be very well-versed in the SkyHive technology; articulating its values and how Enterprises could leverage its capabilities to redesign and upgrade their search and acquisition of human capital
+•	Provide expertise through performing gap analysis and understanding of business goals and needs, while applying relevant processes and practices and abiding by established KPIs
+•	Use appropriate tools and techniques to elicit, define and analyze requirements
+•	Gather critical information from formal meetings and workshops, produce useful minutes and reports, and contribute to data-driven business decisions
+•	Build rapport and develop genuine relationships with customers and effectively communicate insights and plans to cross-functional team members and both technical and non-technical audiences
+•	Assist with refining overall strategies, prioritizing tasks, and other business development duties as needed
+•	Stay up-to-date with industry trends, as well as consolidating lessons learned to encourage further growth within SkyHive’s fast-paced and dynamic environment",
+30,-71.21503,46.80859,Indeed,Yes,Yes,Full Time,Quebec,Ottawa,Canada,"Analytical Skills, Problem Solving, English",,
+31,-123.12148,49.27898,Indeed,No,Yes,Full Time,Vancouver,BC,Canada,"Bachelor Degree in Computer Science, Math, Statistics, Engineering, a related quantitative field, or equivalent experience.
+
+3+ years of experience in applying data science techniques to drive technical product development and decision-making
+Strong technical background in computer science, statistics, math, information science, or another quantitative field
+Fluency in at least one modern language useful for data processing (e.g. Python, Scala)
+Proficiency with relational data modeling and SQL
+Expertise in statistical methods and experimental design and analysis
+Familiarity with distributed data processing systems (e.g. Spark, Redshift)
+Background in advanced statistical modeling (e.g. GLM, mixed effects) and/or machine learning
+Experience collaborating with teammates in other locations","Leading data science efforts for the Vancouver office
+Designing and analyzing experiments to measure the impact of new product features
+Investigating high-level questions like ""What are the collaborative patterns of the most successful teams using Asana?""
+Adding new metrics and aggregations to our data warehouse to make new classes of questions answerable
+Building models to predict the growth trajectory of different customer segments",
+32,-123.11683,49.28594,Indeed,,Yes,Full Time,Vancouver,BC,Canada,"1-3 years of analytics experience in a fast-paced environment. Highly motivated new grads with demonstrated talent in these areas are encouraged to apply.
+
+Bachelor's Degree, MBA, or equivalent experience
+
+Experience with analytics related programming technologies such as Python, R, SQL
+
+Experience with data aggregation (Redshift, Hadoop, etc)
+
+Highly motivated & productive, high EQ
+
+Demonstrated self-starter who has a track record of continuous improvement
+
+Critical thinker who challenges assumptions and drives to understand the story behind the data","Use internal and external sources of data to track the success of our platform
+
+Perform regular and ad-hoc analysis to support product development, marketing, and business development
+
+Establish and track performance metrics at all levels of the product and business
+
+Identify relevant sources of market data to support research & development
+
+Work with the product teams to ensure that appropriate metrics are captured to track usage, success, etc.
+
+Contribute to research alongside our public and academic partners",
+33,-123.12282,49.28658,Indeed,No,No,Full Time,Vancouver,BC,Canada,"years experience as a data analyst or similar quantitative role.
+                                                                                                                                                                                                                                                                Excellent organizational, analytical, and research skills
+                                                                                                                                                                                                                                                                Excellent communicator and listener
+                                                                                                                                                                                                                                                                Curiosity about what makes great conversations
+                                                                                                                                                                                                                                                                Strong sense of initiative, collaboration and helpfulness
+                                                                                                                                                                                                                                                                Flexible with regards to changing priorities & business needs
+                                                                                                                                                                                                                                                                Proficient in SQL
+                                                                                                                                                                                                                                                                experience with Python
+                                                                                                                                                                                                                                                                Bonus points for
+
+                                                                                                                                                                                                                                                                Coursework in Statistics
+                                                                                                                                                                                                                                                                Background in communication, biological sciences, computational linguistics or dealing with human data
+                                                                                                                                                                                                                                                                experience with B2B sales and support workflows","Acquire and clean data sets to support AI Research experiments
+Streamline access to data and simplify query logic by building views
+Ability and desire to understand the point of view of key stakeholders, including the AI Research team and our end users. Includes participating in some customer interviews and learning about sales/support workflows.
+Test hypotheses with data
+Given a use-case be able to recommend and source the required data independently",
+34,-123.12092,49.28655,Indeed,,No,Full Time,Vancouver,BC,Canada,"You have two or more years of hands-on data analysis experience in a company environmentYou are comfortable doing both quantitative and qualitative analysis and talking to a wide variety of different stakeholder groups
+[-] You have a keen interest in researching new data analysis tools, technologies and methodologies","In this Data Analyst role, you’ll work with several popular data modelling tools such as R, Python and good old Excel. In addition to extensive quantitative work, you’ll also have many opportunities to work with the research team and focus on more qualitative discussions as well.",
+35,-123.25264,49.26192,Indeed,,No,Full Time,Vancouver,BC,Canada,"Social skills, ability to engage with people
+Meticulous and precise, attention to detail
+Excellent English (oral and written communication)
+Available for occasional meetings in the evening or during weekends
+Openness to travel via car or airplane for meetings
+Valid driver’s license or ability to obtain one in the near future
+Proficiency with reports, Microsoft Excel, and preparation/presentation of written documents","In collaboration with Partnerships and Development team members, the Business Analyst will collect data and prepare reports to present to Studentcare partner student associations and assist in maintaining our quality standard our partner associations deserve.
+The Business Analyst will present reports in various settings to student associations, assist in event organization on campuses, and perform administrative tasks to support the services offered by Studentcare.
+Develop and implement partnership opportunities.
+
+In line with the vast array of products and services developed by Studentcare to respond to the needs of university and college students across Canada, the Business Analyst will contact student associations who are likely to be interested in our current or upcoming products and services. This includes student associations we currently work with and ones with whom we do not.
+The Business Analyst will schedule meetings and arrange presentations for these products and services with prospective associations, autonomously or under the direct supervision of a Partnership and Development team member.",
+36,-122.98056,49.22111,Indeed,No,No,Full Time,Burnaby,BC,Canada,"Proven experience as a Project Manager, BA or similar role.
+Post Secondary education in Computer Science or related discipline.
+Hands-on project management life cycle is a must.
+Experience with ERPNext or other open source solutions is an asset.
+Knowledge of multiple front-end languages and libraries an asset (e.g.. HTML/CSS JavaScript, XML, SQL).
+Knowledge of multiple back-end languages an asset (e.g.. Java, Python, JavaScript frameworks).
+UI/UX Design experience is an asset.","Work with teams/managers to ideate software solutions and design project scope/timelines in Asana along with project budgets.
+Create Project/IT roadmap (Process Mapping) with management.
+Source and lead a team of jr-mid level developers; ensure that deliverables are met on time and within budget.
+Coordinate/assist UI/UX Contractor(s) with building the front-end applications through appealing visual design.
+Evaluate external resources ensuring overall effectiveness and organizational satisfaction.
+Create a rollout plan, version control/QA protocols, spec documents, and SOP/training documentation.
+Experience being a change agent in the implementation of new technology.
+Assist and/or coordinate testing prior to implementation to ensure responsiveness and efficiency.
+Ensure all applications are developed with security and data protection as a priority.
+Lead workflow management utilizing ERP Next, or advise/plan a roadmap for change control with CRM, HRIS, and/or other software.
+Evaluate the implementation of the project(s) with continuous improvement in front of mind.",NA
+37,-122.99676,49.25507,Indeed,No,No,Full Time,Burnaby,BC,Canada,"2+ years of industry experience in large-scale data engineering, preferably focused on radio frequency data or other kinds of sensor data in binary form, audio, images, or video.
+Expertise in software engineering at scale, along with proficiency in using industry-standard development tools such as Git, and proficiency in using Linux command-line tools.
+Experience in managing data science projects using tools like Airflow, Metaflow, MLflow etc.
+Well-versed in the management and use of relational and NoSQL database systems, industry- standard tools for big data processing such as Spark and Hadoop, and expertise in SQL.
+Proficiency in Python development, and in the use of libraries such as Pandas and TensorFlow.
+Eligible to work in Canada.
+Preferred Qualifications
+
+Experience building data pipelines for machine learning.
+Understanding of machine learning concepts.","Own data management at the company.
+Develop scalable pipelines for radio frequency data, for use by our machine learning, wireless, and software teams, both for production and for research purposes.
+You will be involved in a variety of projects: data collection, data analysis, and scaling up our data systems, working with engineers who specialize in machine learning, wireless, and software.
+You will have substantial independence and responsibility from day one.",NA
+38,-123.07598,49.2767,Indeed,No,Optional,Full Time,Vancouver,BC,Canada,"1+ years working as an analyst in a small, mid-size or large organization using any Data Analytics software (Qlik, Tableau, Power BI or other)
+1+ years experience in Project Management
+Educational or professional background in business administration, science or systems
+Working knowledge of programming, databases, networking and PC operating systems/platforms
+Outstanding communication and interpersonal skills
+Outstanding problem solving and analytical skills","Analyze business and system requirements to determine best use of Qlik within the customer’s environment.
+Translate business requirements into Qlik Sense and QlikView applications and develop end-user business-oriented dashboards, self-service analytics and reports.
+Create and document business/technical specifications and validate the application results.
+Build operational, tactical and strategic Qlik dashboards, reports and analytical solutions to help customers gain better business insights and improve their business decisions and operational efficiencies.
+Provide production support, including working with clients to identify issues and to ensure customer satisfaction.",NA
+39,-123.11669,49.28619,Glassdoor,Yes,No,Contract,Vancouver,BC,Canada,"Experience using Excel and knowledge of basic financial analysis.
+Ability to utilize technology to solve problems.
+Proficient written and verbal English language skills.
+Strong analytical skills and attention to detail.
+High level of initiative and a proactive approach to work.
+Ability to take ownership of tasks and ensure that they are successfully brought to completion.
+Ability to deliver high quality work in a high-volume environment with strict deadlines.","Research and investigate cases using web-based compliance tools, transactional information, customer due diligence, and case management system information.
+Apply basic financial analysis to data and conduct data entry.
+Review documents, files and data thoroughly to accurately identify and categorize items and discrepancies.
+Identify, investigate and/or escalate any identified risk factors.
+Recommend cases for escalation or closure.
+Develop and maintain professional working relationships with colleagues and clients.",38000
